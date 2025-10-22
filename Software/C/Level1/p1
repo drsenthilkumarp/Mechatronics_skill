@@ -1,1 +1,36 @@
+#include <stdio.h>
+#include <ctype.h>
+int main() {
+    long salary;
+    char gender;
+    printf("Enter salary: ");
+    scanf("%ld", &salary);
+    printf("Enter gender (M/F): ");
+    scanf(" %c", &gender); 
+    
+    if (gender != 'M' && gender != 'F') {
+        printf("Gender Should be ‘M’ for Male and ‘F’ for Female\n");
+        return 0;
+    }
+    
+    if (salary <= 0 || salary > 2147483647) {
+        printf("Bonus = Rs. 0 (Invalid salary, no bonus)\n");
+        return 0;
+    }
+    double bonus = 0.0;
+    if (salary < 25000) {
+        bonus = 5000;
+    } else if (salary >= 25000 && salary <= 50000) {
+        bonus = 7500;
+    } else {
+        
+        if (gender == 'M') {
+            bonus = salary * 0.10;
+        } else if (gender == 'F') {
+            bonus = salary * 0.15;
+        }
+    }
+    printf("Bonus = Rs. %.2lf\n", bonus);
+    return 0;
+}
 
