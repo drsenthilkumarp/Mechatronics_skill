@@ -1,0 +1,29 @@
+#include <stdio.h>
+int main() {
+   double Sbase, Sbonus, Sallowance, E;
+   double Stotal, S, P;
+   scanf("%lf", &Sbase);
+   scanf("%lf", &Sbonus);
+   scanf("%lf", &Sallowance);
+   scanf("%lf", &E);
+   // Validation
+    if (Sbase < 0 || Sbonus < 0 || Sallowance < 0 || E < 0) {
+        printf("Error: Input values should not be negative.\n");
+        return 0;
+    }
+    // Calculation
+    Stotal = Sbase + Sbonus + Sallowance;
+    S = Stotal - E;
+    if (Stotal == 0) 
+    {
+    P = 0;
+    } else
+    {
+    P = (S / Stotal) * 100;
+    }    
+    printf("Stotal=Rs. %.2lf\n", Stotal);
+    printf("S= Rs. %.2lf\n", S);
+    printf("P= %.2lf%%\n", P);
+    return 0;
+}
+
