@@ -2,5 +2,5 @@
 
 Demo - site: https://mechatronics-skill-2edp.vercel.app/
 
-![Alt text](images/logo.png)
+![Alt text](images/screenshot.jpg)
 
