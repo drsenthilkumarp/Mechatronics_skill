@@ -9,5 +9,7 @@ The task aims to help learners understand DOM manipulation, event handling, and 
 ## 🚀 Demo Site  
 🔗 [Visit the Portfolio Website](https://mec)  
 
+![Calculator Screenshot](cal.jpg)
+
 ---
 
