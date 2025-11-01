@@ -7,7 +7,7 @@ This project focuses on using HTML to structure the calculator interface, CSS to
 
 The task aims to help learners understand DOM manipulation, event handling, and real-time user interaction through JavaScript, while also reinforcing concepts of responsive design and component-based layout using CSS.
 ## 🚀 Demo Site  
-🔗 [Visit the Portfolio Website](https://mec)  
+🔗 [Visit calculator](https://mec)  
 
 ![Calculator Screenshot](cal.jpg)
 
