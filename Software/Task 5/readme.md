@@ -14,7 +14,7 @@ http://10.70.2.25:8083/
 ```
 sudo apt update && sudo apt upgrade -y
 ```
-Step-2 : Install Nginx  
+### Step-2 : Install Nginx  
 ```
 sudo apt install nginx -y  
 sudo systemctl start nginx
@@ -76,8 +76,7 @@ server {
     }
 }
 ```
-Step-5 :
-Enable the sites
+### Step-5 : Enable the sites
 ```
 sudo ln -s /etc/nginx/sites-available/site1 /etc/nginx/sites-enabled/
 sudo ln -s /etc/nginx/sites-available/site2 /etc/nginx/sites-enabled/
