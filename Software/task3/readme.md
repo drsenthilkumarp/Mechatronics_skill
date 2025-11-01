@@ -1,16 +1,13 @@
-# Portfolio Website  
+# Calculator
 
 ## Task 3  
-The objective of this task is to **design and develop a personal portfolio website** using **HTML and CSS**.  
-The goal is to create a **visually appealing and well-structured** web page that effectively showcases an individual's **profile, skills, projects, achievements, and contact information**.  
+The objective of this task is to design and develop a functional calculator using HTML, CSS, and JavaScript. The goal is to create an interactive web-based calculator that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-This project focuses on demonstrating proficiency in **HTML** for webpage structure and **CSS** for layout design, color schemes, typography, and responsiveness.  
-The portfolio should provide an **engaging user experience** while reflecting the designer’s **creativity and technical abilities**.  
+This project focuses on using HTML to structure the calculator interface, CSS to design and style the layout for a clean and user-friendly experience, and JavaScript to implement the logic and interactivity behind the calculator’s operations.
 
-The task aims to help learners understand how to **build a professional online presence** using core web development technologies **without relying on frameworks or JavaScript**.  
-
+The task aims to help learners understand DOM manipulation, event handling, and real-time user interaction through JavaScript, while also reinforcing concepts of responsive design and component-based layout using CSS.
 ## 🚀 Demo Site  
-🔗 [Visit the Portfolio Website](https://mechatronics-skill-grrf.vercel.app/)  
+🔗 [Visit the Portfolio Website](https://mec)  
 
 ---
 
