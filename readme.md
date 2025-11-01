@@ -11,8 +11,6 @@ This repository contains **300 curated tasks**, grouped into three domains:
 
 Each category includes **100 practical tasks**, starting from beginner concepts and progressing toward advanced projects and system-level integration.
 
----
-
 ## Objective
 
 To create a **structured, project-based learning path** for students and professionals to:
