@@ -5,5 +5,5 @@ The objective of Task 1 is to design and develop a simple login page using HTML 
           https://mechatronics-skill.vercel.app/
 
 <div align="center">
-  <img src="asset/as.jpg" alt="Login Page Screenshot" width="500" height="400">
+  <img src="asset/as.jpg" alt="Login Page Screenshot">
 </div>
