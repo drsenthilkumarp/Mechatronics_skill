@@ -5,3 +5,6 @@ Design and implement basic digital logic gate circuits — AND, OR, NAND, NOR, a
 ## Circuit Diagram
 
 ![PCB Schematic](PCB_schematic.jpg)
+
+
+![Tinker cad simulation](ryty.jpg)
