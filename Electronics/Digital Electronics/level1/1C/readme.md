@@ -11,4 +11,4 @@ Design and implement basic digital logic gate circuits — AND, OR, NAND, NOR, a
 ![PCB Design](PCB_3D.jpg)
 
 
-![PCB 3d](PCB track.jpg)
+![PCB 3d](PCB_track.jpg)
