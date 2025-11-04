@@ -8,3 +8,7 @@ Design and implement basic digital logic gate circuits — AND, OR, NAND, NOR, a
 
 ![Tinker cad simulation](1C-logic gates using IC.jpg)
 
+![PCB Design](PCB_3D.jpg)
+
+
+![PCB 3d](PCB track.jpg)
